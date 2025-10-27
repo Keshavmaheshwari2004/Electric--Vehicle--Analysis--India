@@ -2,7 +2,7 @@
 Data Analysis Project: Electric Vehicle Sales in India
 
 ## 📘 Overview
-This project focuses on analyzing **Electric Vehicle (EV) Sales across Indian States** using multiple data analysis tools such as **Excel, MySQL, Python, and Tableau**.
+This project focuses on analyzing **Electric Vehicle (EV) Sales across Indian States** using multiple data analysis tools such as **Excel, MySQL and Python.
 
 ---
 ## 🧩 Dataset Information
