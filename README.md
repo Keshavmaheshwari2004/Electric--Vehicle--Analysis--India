@@ -82,4 +82,3 @@ Performed using **Excel & Python (Pandas)**:
 - **Excel:** Data cleaning and formatting
 - **MySQL:** Data analysis using SQL queries
 - **Python:** Data wrangling and automation
-- **Tableau:** Data visualization and dashboarding
