@@ -2,7 +2,7 @@
 Data Analysis Project: Electric Vehicle Sales in India
 
 ## 📘 Overview
-This project focuses on analyzing **Electric Vehicle (EV) Sales across Indian States** using multiple data analysis tools such as **Excel, MySQL and Python.
+This project focuses on analyzing **Electric Vehicle (EV) Sales across Indian States** using multiple data analysis tools such as **Excel, MySQL , Tableau and Python.
 
 ---
 ## 🧩 Dataset Information
@@ -72,7 +72,7 @@ Visual Dashboards:
 Electric Vehicle Sales Overview – State-level sales, yearly trend, top states, vehicle-category share
 Vehicle Class Analysis – Category-wise sales by year and state
 Yearly Performance Overview – YoY growth, state-wise growth %, and yearly comparison
----
+
 ---
 ## ✅ Conclusion
 - EV sales are growing rapidly across India.
