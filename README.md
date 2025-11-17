@@ -64,6 +64,14 @@ Performed using **Excel & Python (Pandas)**:
 - **Vehicle Class:** Two-wheelers dominate EV market share.
 - **Policy Impact:** Government incentives and awareness have accelerated growth.
 
+
+## Tableau
+Total EV Sales: 3.59 million (2014–2024)
+States Covered: 34
+Visual Dashboards:
+Electric Vehicle Sales Overview – State-level sales, yearly trend, top states, vehicle-category share
+Vehicle Class Analysis – Category-wise sales by year and state
+Yearly Performance Overview – YoY growth, state-wise growth %, and yearly comparison
 ---
 ---
 ## ✅ Conclusion
